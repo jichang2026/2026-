@@ -198,7 +198,7 @@
 | <a id="apxlc"></a>APXLC星链 | [进入注册](https://w3.apxlc.com/#/register?code=TFwGpxzZ) | 最低 15 元月付 128G，不限使用设备。需要下载其客户端，节点丰富，采用自主研发协议，更适合愿意跟随官方生态使用的用户。 | ⭐⭐⭐⭐ |
 | <a id="woniuyun"></a>蜗牛云 | [进入注册](https://snaillink.net/register?code=utGwSkNy) | 注册后 1 小时内 8 折码有效，赠送 5G 试用，限时 2 小时；最低 10 元 100G，最多支持 3 台设备。适合先试用再决定。 | ⭐⭐⭐ |
 | <a id="nanocloud"></a>NanoCloud | [进入注册](https://edu.uodoo.bid/auth/register?code=FLoqMIhk) | 可能需要先用梯子才能访问。最低 300G 月付 10 元，可同时 5 台设备在线，整体更偏向熟手用户。 | ⭐⭐⭐⭐ |
-| <a id="sanfen"></a>三分机场 | [进入注册](https://xn--ehq00hgtfdmt.xyz/register?code=K71ckk4c) | 14.9 元 120G，300G 月付 23.5 元。限制 5 个客户端同时在线，有新加坡、日本、美国节点，适合常规轻中度使用场景。 | ⭐⭐⭐ |
+| <a id="sanfen"></a>三分机场 | [进入注册](https://sanfen.gonghailin.xin/register?code=K71ckk4c) | 14.9 元 120G，300G月付 25.5 元。限制 5 个客户端同时在线，有新加坡、日本、美国节点，适合常规轻中度使用场景。 | ⭐⭐⭐ |
 | <a id="qiulinyun"></a>秋林云 | [进入注册](https://tinyurl.com/yw9fraxr) | 客户较少，速度相对较快。除了月付 3.99 的套餐外，其余基本不限设备。问题偏多但整体还算及格，适合比较在意多设备使用的人。 | ⭐⭐⭐⭐ |
 | <a id="paopaovpn"></a>Paopao v-pn | [进入注册](https://quick.paopao.cx/TI3y8UMW) | 注册即送 65T 流量试用。基础版不限流量月付 8 元，公益版 3 元；但滥用可能被 Ban。适合想先体验大量试用流量的用户。 | ⭐⭐⭐⭐⭐ |
 | <a id="liangxinyun"></a>良心云 | [进入注册](https://xn--9kqz23b19z.com/#/register?code=yVyW5AAk) | 节点约 30 个。100G 月付 2 元，500G 4 元，1000G 6 元，可同时 20 台设备，流媒体全面解锁。价格极低、设备数宽松，适合低预算和多设备用户。 | ⭐⭐⭐⭐ |
