@@ -6,7 +6,7 @@
 有人更在意**价格便宜**，有人更看重**线路稳定**，也有人只关注**ChatGPT / Netflix / Disney+ / TikTok 解锁**，还有一部分用户更偏爱**按量计费 / 不限时流量包**，希望买一次慢慢用。
 
 如果你更看重**综合性价比**，通常会优先对比 [飞梭](#fs)、[极速云](#jisuyun)、[网际快车](#wjkc)、[NanoCloud](#nanocloud)、[Runway云](#Runway)、[魔戒](#mojie) 这类讨论度较高、套餐结构也比较清晰的机场。  
-如果你更追求**低门槛、先便宜用起来**，可以优先看 [牛逼云机场](https://www.bj999.cc/jichangtuijian/niubiyun.html)、[杜卡迪](#dukadi)、[良心云](#liangxinyun)、[Phantom](#phantom)、[CuteCoud](#cutecoud) 这类低价或试用友好的选择。
+如果你更追求**低门槛、先便宜用起来**，可以优先看 [牛逼云机场](https://www.bj999.cc/jichangtuijian/niubiyun.html)、[一分机场](#yifen)、[良心云](#liangxinyun)、[Phantom](#phantom)、[CuteCoud](#cutecoud) 这类低价或试用友好的选择。
 
 如果你平时并不是天天用，或者不想月月续费、担心流量月底清零，那么更建议优先看支持**按量计费 / 不限时流量**的机场，比如 [网际快车](#wjkc)、[狮子云](#shiziyun)、[BigME](#bigme)、[帕克云](#pakecloud)、[乌龟加速](#wuguijiasu)、[魔戒](#mojie)、[猫耳云](#maoeryun) 等，这类更适合轻度或低频使用用户。
 
@@ -22,7 +22,7 @@
 
 - **综合性价比**： [LPY（蓝胖云）](#lpy) / [极速云](#jisuyun) / [Runway云](#Runway) / [网际快车](#wjkc) / [NanoCloud](#nanocloud)
 - **按量计费 / 不限时流量**： [魔戒](#mojie) / [网际快车](#wjkc) / [BigME](#bigme)  / [赔钱机场](https://github.com/jichang2026/zuipianyijichang#5%E8%B5%94%E9%92%B1%E6%9C%BA%E5%9C%BA-) / [帕克云](#pakecloud)
-- **低价入门**： [良心云](#liangxinyun) / [Phantom](#phantom) / [CuteCoud](#cutecoud)  / [杜卡迪](#dukadi) / [更多超低价机场](https://github.com/jichang2026/zuipianyijichang)
+- **低价入门**： [良心云](#liangxinyun) / [Phantom](#phantom) / [CuteCoud](#cutecoud)  / [一分机场](#yifen) / [更多超低价机场](https://github.com/jichang2026/zuipianyijichang)
 - **稳定专线**： [灯塔云](#dengtayun) / [红杏云](#hongxingyun) / [帕克云](#pakecloud) / [EEVPN](#eevpn) / [极速云](#jisuyun)
 - **多设备友好**： [良心云](#liangxinyun) / [Runway云](#Runway)  / [猫耳云](#maoeryun) / [EEVPN](#eevpn) / [红杏云](#hongxingyun)
 - **新手友好**： [Phantom](#phantom) / [一只猫](#yizhimao) / [APXLC星链](#apxlc)
@@ -152,6 +152,7 @@
 | <a id="maoyun"></a>Maoyun | [进入注册](https://www.maoyun.org/index.php#/register?code=IpBBIGVK) | 月流量 20G 月付 5 元，100G 是 8 元，300G 是 20 元；**不限时 100G 是 35 元，300G 是 50 元**。套餐跨度比较实用，适合轻中度日常用户。美国节点多，速度真的可以！ | ⭐⭐⭐⭐ |
 | <a id="maoeryun"></a>猫耳云 | [此VPN有黑历史](https://yc.xinyun28.com/youcai/341.html) | 支持 **SS / Hysteria2 / Trojan / VLESS**。**不限时 1000G 只需 55 元**，**不限时 36 元有 168G**，并且不限设备数。适合多设备用户，以及想用新协议的用户。 | ⭐ |
 | <a id="chuanshanjia"></a>穿山甲 | [进入注册](https://aff01.csj2025.com/#/register?code=7aOZ2LLY) | 有美国、英国和香港住宅 IP。100G 月付 10 元，年付 50 元每月 30G，**按量计费 30G 是 8 元**。更适合对住宅 IP 或特定地区节点有需求的用户。 | ⭐⭐⭐ |
+| <a id="yifen"></a>一分机场| [进入注册](https://xn--4gqx1hgtfdmt.com/#/register?code=6TivxtMk) | 所有套餐至少支持10个以上设备数量。100g每月付2元，日限流你套餐总量的20%；1000g月付6元.**不限时1000g不到20**。非常适合重视多设备和大流量需求的用户。 | ⭐⭐⭐⭐ |
 
 </details>
 
@@ -174,7 +175,6 @@
 | <a id="mangshe"></a>蟒蛇 | [进入注册](https://www.mangshe.org/#/register?code=Qlu0k8MY) | **没有按流量计费套餐**。最低年付 15 元每月 200G，月付最低 5.8 元每月 1500G，价格非常便宜，但也有“流量跑得快”的负面描述，适合极低预算且预期较低的用户。 | ⭐⭐⭐ |
 | <a id="eyujichang"></a>鳄鱼机场 | [疑似跑路](https://github.com/jichang007/paolujichang/issues/2) | 年付 12 元（每月约 1 元）有 100G，支持 Hysteria 协议，支持流媒体及 ChatGPT，不限设备数，**没有按量计费套餐**。适合低价入门型用户。 | ⭐ |
 | <a id="eevpn"></a>EEVPN | [进入注册](http://www.geteevpn.com/#/register?code=oaQCXCoy) | 中国大陆 BGP 网络接入，IEPL 专线传输，不限制本人设备数量，最高 1000Mbps；**不限时套餐没有**。更适合重视多设备和稳定线路的用户。 | ⭐⭐⭐ |
-| <a id="dukadi"></a>杜卡迪| [进入注册](https://dukadi.info/#/register?code=2k4lxXBN) | 所有套餐不限制设备数量。200g每月年付12元，但是限速100Mbps；推荐2000g月付9.9的限速300Mbps.**不限时套餐没有**。更适合重视多设备和大流量需求的用户。 | ⭐⭐⭐ |
 | <a id="paopaodog"></a>泡泡DOG | [进入注册](https://lg5elhzf.cf101-paopaogou.cc/#/register?code=xd9L2YPa) | 至少有三年历史。自有专专线资源托管服务，总冗余20Gbps。该订阅多地跨境专线，Netfilx/Disney+等流媒体支持，具有强大SLA保证。 88g每月15（年付139）| ⭐⭐⭐⭐ |
 
 </details>
@@ -198,11 +198,11 @@
 | <a id="apxlc"></a>APXLC星链 | [进入注册](https://w3.apxlc.com/#/register?code=TFwGpxzZ) | 最低 15 元月付 128G，不限使用设备。需要下载其客户端，节点丰富，采用自主研发协议，更适合愿意跟随官方生态使用的用户。 | ⭐⭐⭐⭐⭐ |
 | <a id="woniuyun"></a>蜗牛云 | [进入注册](https://snaillink.net/register?code=utGwSkNy) | 注册后 1 小时内 8 折码有效，赠送 5G 试用，限时 2 小时；最低 10 元 100G，最多支持 3 台设备。适合先试用再决定。 | ⭐⭐⭐ |
 | <a id="nanocloud"></a>NanoCloud | [进入注册](https://edu.uodoo.bid/auth/register?code=FLoqMIhk) | 可能需要先用梯子才能访问。最低 300G 月付 10 元，可同时 5 台设备在线，整体更偏向熟手用户。 | ⭐⭐⭐⭐ |
-| <a id="sanfen"></a>三分机场 | [进入注册](https://sanfen.gonghailin.xin/register?code=K71ckk4c) | 14.9 元 120G，300G月付 25.5 元。限制 5 个客户端同时在线，有新加坡、日本、美国节点，适合常规轻中度使用场景。 | ⭐⭐⭐ |
-| <a id="qiulinyun"></a>秋林云 | [进入注册](https://tinyurl.com/yw9fraxr) | 客户较少，速度相对较快。除了月付 3.99 的套餐外，其余基本不限设备。问题偏多但整体还算及格，适合比较在意多设备使用的人。 | ⭐⭐⭐⭐ |
+| <a id="sanfen"></a>三分机场 | [进入注册](https://sanfen.gonghailin.xin/register?code=G6l1I9vf) | 14.9 元 120G，300G月付 25.5 元。限制 5 个客户端同时在线，有新加坡、日本、美国节点，适合常规轻中度使用场景。 | ⭐⭐⭐ |
+| <a id="qiulinyun"></a>秋林云 | [进入注册](https://tinyurl.com/yw9fraxr) | 客户较少，速度相对较快。除了月付 3.99 的套餐外，其余基本不限设备。整体还算及格，机场主比较负责任。 | ⭐⭐⭐⭐ |
 | <a id="paopaovpn"></a>Paopao v-pn | [进入注册](https://quick.paopao.cx/TI3y8UMW) | 注册即送 65T 流量试用。基础版不限流量月付 8 元，公益版 3 元；但滥用可能被 Ban。适合想先体验大量试用流量的用户。 | ⭐⭐⭐⭐⭐ |
 | <a id="liangxinyun"></a>良心云 | [进入注册](https://xn--9kqz23b19z.com/#/register?code=yVyW5AAk) | 节点约 30 个。100G 月付 2 元，500G 4 元，1000G 6 元，可同时 20 台设备，流媒体全面解锁。价格极低、设备数宽松，适合低预算和多设备用户。 | ⭐⭐⭐⭐ |
-| <a id="mitce"></a>Mitce | [进入注册](https://mitce.net/aff.php?aff=18191) | 0.6 美元月付 100G，1.2 美元 500G，对电信用户不太友好，但支持 ChatGPT 和流媒体。适合对价格较敏感、同时希望兼顾解锁能力的用户。 | ⭐⭐⭐ |
+| <a id="mitce"></a>Mitce | [进入注册](https://mitce.net/aff.php?aff=18191) | 国外机场，相对不担心机场数据泄密个人身份。0.6 美元月付 100G，1.2 美元 500G，可以用支付宝付款，支持 ChatGPT 和流媒体。适合对价格较敏感、同时希望兼顾解锁能力的用户。 | ⭐⭐⭐ |
 | <a id="xiaoliyu"></a>小鲤鱼 | [进入注册](https://www.xiaoliyu.me/#/register?code=MTjbtmGU) | 月付 6.8 元有 1000G，限速 300Mbps；月付 10 元有 2000G，后台相对简陋。适合更看重大流量和低预算的用户。 | ⭐⭐⭐⭐ |
 | <a id="hongxingyun"></a>红杏云 | [进入注册](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) [备用地址](https://hxlove24s.cc/web/#/login?code=B6PcC2tf)| 多年经营，海外专业运营团队，IEPL 专线传输，赠送 EMBY 影视库，家庭使用不限设备。更适合看重稳定性、家庭共享和专线体验的用户。 | ⭐⭐⭐⭐ |
 | <a id="dengtayun"></a>灯塔云 | [进入注册](https://dengta.cloud/register?code=QY6ai3gj) | 全面升级 VLESS 协议，全是三线 IEPL 专线。价格偏高但定位更稳，季付 70 元起，且不限制本人设备数。适合更重视线路和长期稳定性的用户。 | ⭐⭐⭐⭐ |
